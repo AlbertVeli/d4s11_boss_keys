@@ -107,9 +107,36 @@ TODO: Add more methods here
 
 Source file: [materials.dot](materials.dot)
 
+## Contributing
+
+If you spot an error, outdated information, or want to add more information feel free to contribute!
+
+### How to contribute
+
+1. **Fork** this repository
+2. Create a new branch (e.g. `fix-belial-hoard` or `update-loot-info`)
+3. Make your changes
+4. Commit with a clear, descriptive message
+5. Open a **Pull Request** against the `main` branch
+
+### What to keep in mind
+
+- This repo focuses on **bosses, lair keys and drops**, not builds
+- Loot tables are ok, or just add links to external resources
+
+### Sources
+
+If possible, include a source, for example:
+- Wowhead / Maxroll / Icy Veins / Cliptis
+- Patch notes
+- Reproducible in-game observations
+
+Thanks for helping keep this reference accurate and useful!
+
 # Links
 * [Helltides](https://helltides.com/) - Timers and maps for World Bosses, Helltides and Events
 * [Season 11 Guide](https://www.cliptis.com/season-guide11) - Get started guide for Season 11
+* [Cliptis Discord](https://discord.gg/abZk36gawB) – Community discussion. You can reach me as **@trebla** there if you have corrections or suggestions.
 
 ```
                             ______________
