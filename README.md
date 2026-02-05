@@ -4,7 +4,7 @@ I wrote this guide to remember what keys are needed to unlock boss chests and wh
 
 # Major bosses
 
-## Azmodan
+## Azmodan (summoned)
 - Location: SE of Zarbinzet
 
 Summon through one of:
@@ -20,7 +20,9 @@ Open, one of:
 ### Notes
  - Endgame lair boss keys unlocks att level 73
  - Corrupted Horns / Eyes / Claws cap at around 23 in the inventory. After that they stop dropping.
- - The seasonal divine gift *Essence of Sin* can be leveled up to rank 5. Defeating Azmodan south of Zarbinzet gives 5, as world boss 20. Random red glowing overworld enemies gives 1. Rank 5 requires a total of 1500. At rank 5 you get increased drop rates. Nahantu and Denshar (PvP zone) have the highest density of red glowing enemies. Lowering difficulty to Normal still gives 5 per Azmodan kill. But don't open Hoard chests on Normal, do that on Torment IV for best loot.
+ - The seasonal divine gift *Essence of Sin* can be leveled up to rank 5. Defeating summoned Azmodan 5, as World Boss 20. Random red glowing overworld enemies gives 1. Rank 5 requires a total of 1500. At rank 5 you get increased drop rates. Nahantu and Denshar (PvP zone) have the highest density of red glowing enemies. Lowering difficulty to Normal still gives 5 per Azmodan kill. But don't open Hoard chests on Normal, do that on Torment IV for best loot.
+ - All Hoard chests can also drop Corrupted Tongue of Azmodan. These can be used to open a Azmodan's Hoard Chest after defeating him as World Boss.
+ - Hoard chests generally drop 15-20 random legendary, ancestral, unique and ancestral unique items with a very small chance of a mythical unique item. And they also drop specific items, Duriel's Hoard for instance always drops two legendary runes (if Essence of Pain/Squalor are at rank 5 and difficulty is Torment IV).
 
 # Greater Lair Bosses
 
@@ -41,7 +43,7 @@ All lair keys below can also drop from World Bosses, Events and the Undercity of
  - Location: Hanged Man's Hall
              Kehjistan, East of Tarsarak
  - Lair Key: **3 Pincushioned Doll** (Glacial Fissure, Ancient's Seat)
- - Drops: *Corrupted Claws of Andariel*
+ - Drops: *3 Corrupted Claws of Andariel*
  - Note: Ancient's Seat is inside The Darkened Way
 
 ## Harbinger of Hatred
