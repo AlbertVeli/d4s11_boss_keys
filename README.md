@@ -92,12 +92,11 @@ TODO: Add more bosses here
 ## Rune farming loop
 
 Runes can be used to form rune words or to craft mythical unique items together with resplendent sparks.
-
- 1. Run helltides to get Living Steel
- 2. Use all Living Steel in Hall of the Pentinent -> Shard of Agony
- 3. Use all Shard of Agony in Gaping Crevasse -> Corrupted Horn of Duriel
- 4. Defeat Azmodan, open Duriel's Hoard
- 5. Repeat back to 2 (you get more Living Steel from Duriel's Hoard)
+1. Run Helltides to get Living Steel
+2. Use all Living Steel in Hall of the Pentinent -> Shard of Agony
+3. Use all Shard of Agony in Gaping Crevasse -> Corrupted Horn of Duriel
+4. Defeat Azmodan, open Duriel's Hoard
+5. Repeat back to 2 (you get more Living Steel from Duriel's Hoard)
 
 Note: You can also convert Stygian Stones to Shards of Agony
 
@@ -108,6 +107,29 @@ TODO: Add more methods here
 ![Lair key & boss flow](materials.png)
 
 Source file: [materials.dot](materials.dot)
+
+## Mythic Uniques
+Rare items that are even better than ancestral uniques. There are several ways to get Mythic Uniques.
+* Craft a Mythic Unique Cache at the Blacksmith. This requires two resplendent sparks and gives one random Mythic Unique.
+* Craft a specific Mythic Unique (needs expansion). Done at the jeweler with two resplendent sparks + specific runes.
+* Get a nightmare sigil with the Mythic Prankster affix (very rare). This places a Mythic Prankster in the dungeon that
+always drops 5 random Mythical Uniques (if you can kill him before he disappears).
+* **Undercity of Kurast** with the **Tribute of Ascendance** offering. This is the best way to get Mythical Uniques. 10 runs gives on average 2-3 random Mythical Uniques.
+Tribute of Ascendance is a common drop from World Bosses (if you have ranked up you Essence of Sin).
+
+## Sigil farming loop
+1. Before you begin level up Essence of Sin / Hellfire to rank 5 and level up to Torment IV.
+2. Put Hellfire in the Purified slot and Sin in the corrupted slot when fighting Lair Bosses. Swap these when fighting summoned Azmodan and World Bosses to increase probability of sigil drops.
+3. Now do the rune farming loop. All Hoard chests will have a 40% chance of dropping sigils.
+4. Go to the Occultist and salvage sigils that don't have the *Mythic Prankster* affix.
+5. Now you can use the salvaged sigil fragments to craft new sigils. Go back and salvage again.
+6. When you can't craft any more sigils, go back to the rune farming loop.
+
+Once you get a sigil with the *Mythic Prankster* affix, save it. You may want to get into a group when activating it. Each person in the group will then get 5 Mythic Uniques from you sigil.
+
+Notes:
+* You may also want to save sigils with the Treasure Breach affix.
+* When sigils drop they really drop. So many you can't carry them all. Pick up as many as you can and move away from the center. Then drop them on the ground. Go back and pick up the rest. Make sure to pick up all sigils and drop them before going to the jeweler. Otherwise the unpicked will disappear when you go to town to salvage the ones in your inventory.
 
 ## Contributing
 
